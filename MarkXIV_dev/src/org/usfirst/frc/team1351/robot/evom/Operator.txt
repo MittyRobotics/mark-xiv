@@ -1,0 +1,20 @@
+Drive - usual drive 
+Stick 2, Button 2: Move intake
+Stick 2, Trigger: Shooter
+Xbox, Button A: Agitator good direction
+Xbox, Button Y: Agitator bad direction 
+Stick 1, Trigger: Automatically winch up based on current, doesn't stop at top 
+Stick 1, Button 6: Move up very slowly to help robot stay in place
+Stick 1, Button 7: Move down very slowly to have robot lower faster
+Stick 1, Button 10: Wind drum slowly for pickup
+Stick 1, Button 11: Wind drum w/ max power for pickup 
+Stick 2, Button 6: OPPOSITE DIRECTION (turning towards robot) Move up very slowly to help robot stay in place
+Stick 2, Button 7: OPPOSITE DIRECTION Move down very slowly to have robot lower faster
+Stick 2, Button 10: OPPOSITE DIRECTION Wind drum slowly for pickup
+Stick 2, Button 11: OPPOSITE DIRECTION Wind drum w/ max power for pickup 
+Pneumatics: God knows 
+
+Solenoids:
+0 - drive
+1 - arm
+2 - intake
